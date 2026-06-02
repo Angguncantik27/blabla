@@ -10,5 +10,8 @@ namespace blabla
         public string surname { get; set; }
         public string email { get; set; }
         public string password { get; set; }
+
+
+        public string email2 { get; set; }
     }
 }
