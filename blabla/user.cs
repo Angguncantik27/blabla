@@ -13,5 +13,6 @@ namespace blabla
 
 
         public string email2 { get; set; }
+        public int id { get; set; }
     }
 }
